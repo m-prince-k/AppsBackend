@@ -1,0 +1,1 @@
+[Tue Nov 05 12:25:22.765591 2024] [autoindex:error] [pid 3956607] [client 49.43.100.237:54309] AH01276: Cannot serve directory /var/www/appsbackend/frontend/src/: No matching DirectoryIndex (index.html,index.cgi,index.pl,index.php,index.xhtml,index.htm) found, and server-generated directory index forbidden by Options directive
